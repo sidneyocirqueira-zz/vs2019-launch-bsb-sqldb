@@ -10,3 +10,10 @@ Como o Azure e Azure DevOps podem levar a integração do seu time
 
 [@renanlq](https://github.com/renanlq) [@yagoluiz](https://github.com/yagoluiz)
 
+# Instruções para execução do projeto
+
+Provisionar Ambiente de Azure SQL Database via ARM Template com Power Shell;
+
+Executar projeto via Visual Studio ou Visual Studio Code
+
+
