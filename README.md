@@ -1,4 +1,4 @@
-# VS2019-Launch-BSB-SQLDatabase(CI/CD)
+# VS2019 Launch BSB - SQL Database
 Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/DevelopersBR/events/260461888/)
 
 ## Sumário
