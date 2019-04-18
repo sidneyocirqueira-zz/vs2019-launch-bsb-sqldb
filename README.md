@@ -32,6 +32,8 @@ Instruções para execução do projeto:
 
 * SSDT: https://devblogs.microsoft.com/ssdt/
 
+* SSDT + Visual Studi: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
+
 * Azure DevOps: https://azure.microsoft.com/en-us/services/devops/
 
 * DevOps Using SQL Server: https://www.microsoft.com/en-us/sql-server/developer-get-started/sql-devops/
