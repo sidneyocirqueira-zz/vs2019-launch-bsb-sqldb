@@ -1,0 +1,60 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "administratorLogin": {
+            "value": "sqladmin"
+        },
+        "administratorLoginPassword": {
+            "value": "VS2019L@unchDemo"
+        },
+        "collation": {
+            "value": "SQL_Latin1_General_CP1_CI_AS"
+        },
+        "databaseName": {
+            "value": "vs2019"
+        },
+        "tier": {
+            "value": "Basic"
+        },
+        "skuName": {
+            "value": "Basic"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "maxSizeBytes": {
+            "value": 2147483648
+        },
+        "serverName": {
+            "value": "vs2019-demo-sqlserver"
+        },
+        "sampleName": {
+            "value": ""
+        },
+        "zoneRedundant": {
+            "value": false
+        },
+        "licenseType": {
+            "value": ""
+        },
+        "readScaleOut": {
+            "value": "Disabled"
+        },
+        "numberOfReplicas": {
+            "value": 0
+        },
+        "enableATP": {
+            "value": false
+        },
+        "allowAzureIps": {
+            "value": true
+        },
+        "databaseTags": {
+            "value": {}
+        },
+        "serverTags": {
+            "value": {}
+        }
+    }
+}
