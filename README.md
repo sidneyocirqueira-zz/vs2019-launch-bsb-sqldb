@@ -6,10 +6,11 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 * [Integrantes](#integrantes)
 * [Instruções](#instrucoes)
 * [CI/CD](#ci/cd)
+* [Referências](#referencias)
 
 ## Palestra
 * Como o Azure e Azure DevOps podem levar a integração do seu time  
-[VS2019 Launch.pptx](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/ppt/VS2019%20Launch.pptx)
+[VS2019 Launch.pdf](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/ppt/VS2019%20Launch.pptx)
 
 ## Integrantes
 1. [Renan](https://github.com/renanlq) 
@@ -25,14 +26,14 @@ Instruções para execução do projeto:
   [SQL Project](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/src/VS2019.Database/VS2019.Database.sqlproj)
 
 ## CI/CD
-* Realizar via Azure DevOps [Build e Release](https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
+* Realizar [Build e Release](https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops) via Azure DevOps
 
 ## Referências 
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
 
 * SSDT: https://devblogs.microsoft.com/ssdt/
 
-* SSDT + Visual Studi: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
+* SSDT + Visual Studio: https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SQL-Server-Data-Tools-for-Visual-Studio
 
 * Azure DevOps: https://azure.microsoft.com/en-us/services/devops/
 
