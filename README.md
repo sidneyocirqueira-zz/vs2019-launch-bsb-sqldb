@@ -20,7 +20,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 ## Instruções
 Instruções para execução do projeto:
 * Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/tree/master/arm) com Power Shell;
-* Executar projeto via Visual Studio ou Visual Studio Code
+* Executar projeto via Visual Studio ou Visual Studio Code;
 
   [Solution](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/VS2019.sln) |
   [SQL Project](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/src/VS2019.Database/VS2019.Database.sqlproj)
