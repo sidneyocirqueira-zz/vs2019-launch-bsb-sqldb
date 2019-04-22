@@ -10,7 +10,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 
 ## Palestra
 * Como o Azure e Azure DevOps podem levar a integração do seu time  
-[VS2019 Launch.pdf](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/ppt/VS2019%20Launch.pdf)
+[VS2019 Launch.pdf](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/tree/master/pdf)
 
 ## Integrantes
 1. [Renan](https://github.com/renanlq) 
@@ -19,7 +19,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 
 ## Instruções
 Instruções para execução do projeto:
-* Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/arm) com Power Shell;
+* Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/tree/master/arm) com Power Shell;
 * Executar projeto via Visual Studio ou Visual Studio Code
 
   [Solution](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/VS2019.sln) |
