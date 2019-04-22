@@ -10,7 +10,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 
 ## Palestra
 * Como o Azure e Azure DevOps podem levar a integração do seu time  
-[VS2019 Launch.pdf](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/ppt/VS2019%20Launch.pptx)
+[VS2019 Launch.pdf](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/ppt/VS2019%20Launch.pdf)
 
 ## Integrantes
 1. [Renan](https://github.com/renanlq) 
