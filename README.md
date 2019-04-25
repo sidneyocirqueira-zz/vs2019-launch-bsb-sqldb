@@ -19,15 +19,12 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 3. [Yago](https://github.com/yagoluiz)
 
 ## Pré-Requisitos:
-* Download e instalação: [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/)   
+* Download e instalação: [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/) | Azure SQL Database(https://azure.microsoft.com/en-us/services/sql-database/) 
 
 ## Instruções
 Instruções para execução do projeto:
 * Provisionar Ambiente de Azure SQL Database via [ARM Template](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/tree/master/arm) com Power Shell;
-* Executar projeto via Visual Studio ou Visual Studio Code;
-
-  [Solution](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/VS2019.sln) |
-  [SQL Project](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/src/VS2019.Database/VS2019.Database.sqlproj)
+* Executar projeto via Visual Studio ou Visual Studio Code: [Solution](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/VS2019.sln) |  [SQL Project](https://github.com/sidneyocirqueira/vs2019-launch-bsb-sqldb/blob/master/src/VS2019.Database/VS2019.Database.sqlproj)
 
 ## CI/CD
 * Realizar [Build e Release](https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops) via Azure DevOps
