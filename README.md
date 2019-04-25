@@ -4,6 +4,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 ## Sumário
 * [Palestra](#palestra)
 * [Integrantes](#integrantes)
+* [Pré-Requisitos](#prerequisitos)
 * [Instruções](#instrucoes)
 * [CI/CD](#ci/cd)
 * [Referências](#referencias)
@@ -16,6 +17,9 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 1. [Renan](https://github.com/renanlq) 
 2. [Sidney](https://github.com/sidneyocirqueira)
 3. [Yago](https://github.com/yagoluiz)
+
+## Pré-Requisitos:
+* Download e instalação: [Visual Studio 2019] (https://visualstudio.microsoft.com/vs/preview/)   
 
 ## Instruções
 Instruções para execução do projeto:
