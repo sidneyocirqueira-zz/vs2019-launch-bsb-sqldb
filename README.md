@@ -19,7 +19,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 3. [Yago](https://github.com/yagoluiz)
 
 ## Pré-Requisitos:
-* Download e instalação: [Visual Studio 2019] (https://visualstudio.microsoft.com/vs/preview/)   
+* Download e instalação: [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/)   
 
 ## Instruções
 Instruções para execução do projeto:
