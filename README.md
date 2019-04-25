@@ -19,7 +19,7 @@ Demo realizada no evento  [Visual Studio 2019 Launch](https://www.meetup.com/Dev
 3. [Yago](https://github.com/yagoluiz)
 
 ## Pré-Requisitos:
-* Download e instalação: [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/) | [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/) | [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+* Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/) | [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/) | [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 
 ## Instruções
 Instruções para execução do projeto:
